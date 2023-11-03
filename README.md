@@ -4,7 +4,7 @@
 
 Async MySQL database client for [ReactPHP](https://reactphp.org/).
 
-> **Development version:** This branch contains the code for the upcoming 0.6 release.
+> **Development version:** This branch contains the code for the upcoming 0.6 release.a
 > For the code of the current stable 0.5 release, check out the
 > [`0.5.x` branch](https://github.com/friends-of-reactphp/mysql/tree/0.5.x).
 >
